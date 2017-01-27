@@ -1,0 +1,31 @@
+H.E.S.S. Collaboration :
+
+The H.E.S.S. Galactic plane survey
+(version 24 december 2016)
+
+l.612 - 622 :
+
+You might need to mention in this paragraph Fig. 6. The sentence following the one mentioning 25% of typical variation can be misunderstood : "To obtain a good, smooth sampling of variations ..." as if it indicates that you managed to find variations of less than the previously stated 25%. Perhaps you could merge those two sentences as follow : "To obtain a good, smooth sampling of variations (typically of ~25%), we followed a sliding window approach ..."
+
+l.739 - 742 :
+"Two other effects were observed during the modelling : very bright sources, even with center-filled morphology, decomposed into several components, modeling morphological details of the source."
+
+Confusing sentence. The two mentioned effects that were encountered during the modelling are not defined in this sentence. You should clearly state which is which because when reading this paragraph one is left wondering what is the second effect mentionned at the beginning.
+
+l.844 - 847 :
+
+Since it is a list of the different values for R$_{spec}$ for sources of various sizes, you could also define here what are the upper or lower limits for the classification of the sources as small, medium-sized and very large. You did mention later on line 1006 that "small sources (<0.3°)" but here it seems to be rather fit since you are already classifying them by size.
+
+l.1001      :
+
+Eq.(29) Perhaps use another symbol than " ~ " for the relation because it suggests that the minimum required flux at ($\sigma_{source}$) is approximately equivalent to a size computed by the sizes of the source and the PSF...
+
+
+l.2121      :
+"blue diamond"
+--> "cyan diamond"
+
+l.2139      :
+"an heavily absorbed"
+--> "a heavily absorbed"
+
